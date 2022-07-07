@@ -1,0 +1,269 @@
+@media (max-width: 1149px) {
+    .conteiner {
+        width: 740px;
+    }
+
+    .frist_img img ,.slick-list.draggable{
+        height: 550px;
+    }
+
+    .home_content {
+        top: -178px;
+        padding: 85px;
+    }
+
+    button.slick-next.slick-arrow,button.slick-prev.slick-arrow {
+        top: 235px;
+    }
+
+    .box_image {
+        width: 210px;
+        height: 250px;
+    }
+    .min-our-team {
+        width: 740px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .our_team_background h1 {
+        font-size: 34px;
+    }
+
+    .Latest_Blog4 h2 {
+        margin: 0 6px;
+        font-size: 18px;
+    }
+    .Latest_Blog4 h3 a {
+        margin: 5px;
+    }
+    .Latest_Blog4 {
+        height: 300px;
+        margin-top: 50px;
+    }
+
+    .d_1_desgin {
+        width: 178px;
+    }
+    .d_1_desgin .new {
+        margin: 0 0px 0 134px;
+    }
+    .d_1_desgin input {
+        padding: 10px 0;
+    }
+}
+
+@media (max-width: 749px){
+    .conteiner {
+        width: 500px;
+    }
+    .nav_left {
+        width: 36%;
+    }
+    .nav_right {
+        width: 54%;
+    }
+
+    .slick-list.draggable {
+        height: 400px;
+    }
+    .frist_img img {
+        height: 400px;
+    }
+    button.slick-prev.slick-arrow ,button.slick-next.slick-arrow{
+        top: 190px;
+    }
+    .home_content {
+        padding: 40px;
+    }
+
+    .min-our-team {
+        width: 510px;
+    }
+    .image_1-4 {
+        width: 200px;
+        height: 300px;
+    }
+
+    .image::after {
+        height: 250px;
+    }
+    .image_1-4 img {
+        width: 200px;
+    }
+    span.tanvir,span.wev {
+        width: 150px;
+        font-size: 20px;
+    }
+    .image::after {
+        height: 250px;
+    }
+
+    .Latest_Blog4 span {
+        margin: 0;
+    }
+
+    .Latest_Blog4 {
+        width: 31%;
+        height: 275px;
+        margin-top: 50px;
+    }
+    .Latest_Blog4 h2 {
+        margin: 0 6px;
+        font-size: 18px;
+    }
+    .Latest_Blog4 h3 a {
+        margin: 5px;
+    }
+    .blog_img {
+        height: 140px;
+    }
+
+    .d_T_background.disply-none {
+        display: none;
+    }
+    
+}
+
+@media (max-width: 519px){
+    .conteiner {
+        width: 350px;
+    }
+    .nav_background {
+        display: none;
+    }
+    .frist_img img {
+        height: 300px;
+    }
+    button.slick-prev.slick-arrow ,button.slick-next.slick-arrow{
+        top: 150px;
+    }
+    .home_content {
+        top: -265px;
+        padding: 40px;
+    }
+
+    .box_root h2, .box_root h3 {
+        font-size: 15px;
+    }
+    /* ourteam*/
+    .min-our-team {
+        width: 340px;
+    }
+    .box_image {
+        width: 140px;
+        height: 190px;
+    }
+    .our_team_background h1 {
+        font-size: 23px;
+        width: 300px;
+    }
+    .image_1-4 {
+        width: 135px;
+        height: 186px;
+    }
+    .image_1-4 img {
+        width: 135px;
+    }
+    .developer {
+        bottom: -60px;
+    }
+    span.tanvir, span.wev {
+        width: 93px;
+        font-size: 12px;
+    }
+    .image::after {
+        height: 170px;
+    }
+
+    .video_background h1 {
+        font-size: 28px;
+        text-align: -webkit-match-parent;
+    }
+
+    .Latest_Blog1 {
+        padding: 0 5px;
+    }
+    .blog_img {
+        height: 115px;
+    }
+    .Latest_Blog4 {
+        width: 40%;
+    }
+    
+}
+
+@media (max-width: 349px){
+    .conteiner {
+        width: 230px;
+    }
+    .nav_background {
+        display: none;
+    }
+
+    .home_content h1 {
+        font-size: 25px;
+        top: 340px;
+    }
+
+
+
+    .scroll-up-btn {
+        height: 37px;
+        width: 30px;
+        right: 7px;
+        line-height: 38px;
+    }
+
+
+    .box_image {
+        width: 170px;
+        height: 250px;
+    }
+    .recent_background {
+        height: fit-content;
+        padding: 0 0 20px 0;
+    }
+    .box_img::after {
+        left: 8px;
+    }
+    .our_team_background h1 {
+        font-size: 14px;
+        width: 200px;
+    }
+    .our_team_background p {
+        margin: 10px auto;
+        font-size: 16px;
+    }
+
+    .min-our-team {
+        width: 225px;
+    }
+    .image_1-4 {
+        width: 160px;
+        height: 210px;
+    }
+    .image_1-4 img {
+        width: 160px;
+        height: 220px;
+    }
+    .image::after {
+        height: 221px;
+    }
+
+    .top_recent h1 {
+        font-size: 15px;
+        padding: 23px 0 0 0;
+    }
+
+    .Latest_Blog4 {
+        width: 80%;
+    }
+    .blog_img {
+        height: 140px;
+    }
+
+    .footer span {
+        font-size: 13px;
+    }
+}
